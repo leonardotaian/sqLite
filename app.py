@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for
 import repositorio
 
+# Usar de base os comandos para o projeto4
+
 app = Flask(__name__)
 
 #LEMBRE-SE -> 
